@@ -1,1 +1,1 @@
-love /GPEngTest --console
+love GP_EngTest
