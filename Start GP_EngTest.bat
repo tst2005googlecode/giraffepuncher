@@ -1,0 +1,1 @@
+love /GP_EngTest --console
